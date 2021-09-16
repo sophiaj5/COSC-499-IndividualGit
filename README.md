@@ -1,0 +1,2 @@
+# COSC 499 Individual GitHub Assignment
+This project for COSC 499 is meant to show my understanding of GitHub using a simple program. In main.py, we simply have a list of numbers that we are sorting using the sort() method in Python. The three features I have implemented for this assignment are found in `minimum.py`, `maximum.py`, and `customsort.py`. `minimum.py` will give us the smallest number in our list, while `maximum.py` will give us the biggest number. `customsort.py` will sort the array for us. 
