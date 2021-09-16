@@ -1,8 +1,9 @@
 #this is a program to find the smallest number in a list
+from customsort import customSort
 
 def findMinNum(numArray):
     if type(numArray) == list:
-        numArray.sort()
+        numArray = customSort(numArray)
         return numArray[0]
     else:
         raise ValueError("Was expecting a list")
