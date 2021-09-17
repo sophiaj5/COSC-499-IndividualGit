@@ -10,4 +10,3 @@ def findMinNum(numArray):
 
 numbers = [13, 7, 16, 28, 2]
 print("This is the smallest number:", findMinNum(numbers))
-
